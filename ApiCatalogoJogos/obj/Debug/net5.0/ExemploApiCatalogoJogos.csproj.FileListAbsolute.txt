@@ -1,0 +1,7 @@
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
