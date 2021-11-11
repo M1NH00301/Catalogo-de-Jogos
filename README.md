@@ -1,0 +1,3 @@
+# Catalogo-de-Jogos
+Hello peopleee...
+Bom... Esse repostorio esta completo, porém tem alguns erros e não está funcionando no meu Visual Studio. Como sempre, deixarei aqui para futuramente utiliza-lo em outra maquina.
